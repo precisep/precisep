@@ -1,10 +1,9 @@
 ﻿# Hi there! 👋
 
-I'm Thabang Mokoena, a passionate metallurgist and data scientist with experience on both fields. My journey involves the fascinating intersection of metallurgy and data, where I explore innovative ways to extract insights and drive solutions.
+I'm Thabang Mokoena, a passionate metallurgist and data scientist with experience on both fields. My journey involves the fascinating intersection of metallurgy and data, where I explore innovative ways to extract insights from data and drive solutions.
 
 ## 🔬 Metallurgist | Data Scientist 
 
-- 🏭 Unraveling the historical tapestry woven by metallurgy, shaping societies and civilizations.
 - 💡 Navigating the digital frontier, where data science unveils fresh insights, propelling us into a future of endless possibilities.
 
 I'm a metallurgist exploring more than just physical materials. I dive into the world of information, connections, and endless opportunities. In data science, I focus on understanding how materials speak a digital language, unlocking various innovations.
